@@ -7,7 +7,7 @@
   
 Możesz tu kliknać  [Link do najelpszego kursu HTML](https://www.youtube.com/watch?v=BAju0_IS-ns)
 
-As Kanye West said:
+Anthony Eden powiedział :
 
-> We're living the future so
-> the present is our past.
+> Dyplomata to człowiek, który pamięta o urodzinach kobiety, ale zapomina o jej wieku 
+> ale zapomina o jej wieku.
