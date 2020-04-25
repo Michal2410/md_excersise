@@ -21,4 +21,6 @@ Milka Cookies | 6 zł
 Wedel Cookies  | 4,50 zł
 
 Zdjęcie : 
-![Image of Yaktocat](https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_411,h_297/https://magazynbike.pl/wp-content/uploads/2020/04/DSC00064-1-411x297.jpg)
+
+
+![rower](https://cdn.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_411,h_297/https://magazynbike.pl/wp-content/uploads/2020/04/DSC00064-1-411x297.jpg)
