@@ -10,7 +10,7 @@ Możesz tu kliknać  [Link do najelpszego kursu HTML](https://www.youtube.com/wa
 Anthony Eden powiedział : 
 >"  Dyplomata to człowiek, który pamięta o urodzinach kobiety, ale zapomina o jej wieku. "
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+- [ ] **Opłacić rachunki**
+- [x] Zrobić zakupy
+- [x] Odebrać przesyłkę 
+- [ ] _Odkazić telefon_
