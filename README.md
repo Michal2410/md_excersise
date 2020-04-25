@@ -14,3 +14,8 @@ Anthony Eden powiedział :
 - [x] Zrobić zakupy
 - [x] Odebrać przesyłkę 
 - [ ] _Odkazić telefon_
+
+Ciastka | Cena 
+------------ | -------------
+Milka Cookies | 6 zł
+Wedel Cookies  | 4,50 zł
