@@ -9,5 +9,5 @@ Możesz tu kliknać  [Link do najelpszego kursu HTML](https://www.youtube.com/wa
 
 Anthony Eden powiedział :
 
-> Dyplomata to człowiek, który pamięta o urodzinach kobiety, ale zapomina o jej wieku 
-> ale zapomina o jej wieku.
+>"  Dyplomata to człowiek, który pamięta o urodzinach kobiety, ale zapomina o jej wieku 
+> ale zapomina o jej wieku. "
